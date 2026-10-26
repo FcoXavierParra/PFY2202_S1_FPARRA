@@ -48,8 +48,8 @@ src/
 Requisitos: Node.js 24 (versión usada en desarrollo y en el deploy).
 
 ```bash
-git clone https://github.com/FcoXavierParra/Supermercado-Francisco-Parra-PFY2202.git
-cd Supermercado-Francisco-Parra-PFY2202
+git clone https://github.com/FcoXavierParra/PFY2202_S1_FPARRA.git
+cd PFY2202_S1_FPARRA
 npm install
 npm start
 ```
@@ -58,7 +58,7 @@ La aplicación queda disponible en http://localhost:3000.
 
 ## Sitio publicado
 
-https://fcoxavierparra.github.io/Supermercado-Francisco-Parra-PFY2202/
+https://fcoxavierparra.github.io/PFY2202_S1_FPARRA/
 
 Se publica automáticamente en GitHub Pages con cada push a `main` (`.github/workflows/deploy.yml`).
 
